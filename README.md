@@ -1,10 +1,10 @@
-# 2048
+# Game2048
 
-[![OpenReward Environment](https://img.shields.io/badge/%E2%AD%90%20OpenReward-Environment-f7e6cc)](https://openreward.ai/GeneralReasoning/2048)
+[![OpenReward Environment](https://img.shields.io/badge/%E2%AD%90%20OpenReward-Environment-f7e6cc)](https://openreward.ai/GeneralReasoning/Game2048)
 
 ## Description
 
-**2048** is an environment for evaluating agents on the classic sliding tile puzzle game. This environment wraps the 2048 implementation from [TextArena](https://github.com/LeonGuertler/TextArena), a framework for text-based game environments.
+**Game2048** is an environment for evaluating agents on the classic sliding tile puzzle game. This environment wraps the 2048 implementation from [TextArena](https://github.com/LeonGuertler/TextArena), a framework for text-based game environments.
 
 ## Capabilities
 
